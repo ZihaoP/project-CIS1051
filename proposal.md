@@ -9,7 +9,7 @@ Easy to do
 An application to help people to manage their daily tasks.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
-This software first needs to be registered, and then users can add daily tasks freely. When the tasks are completed, they can mark the completion and automatically delete the task. The time zone can also be displayed when the user edits the task.
+This software first needs to be registered, and then users can add daily tasks freely. When the tasks are completed, they can mark the completion and crossout tasks. The time  can also be displayed when the user edits the task.
 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
