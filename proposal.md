@@ -34,4 +34,4 @@ Can mark task completion and display the date and time.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-We need to learn react-native frame, android studio and javascript to finish this mobile app. Zejun is going to learn javascript and react-native frame, and I will work on the UI design, and android studio.
+We need to learn react-native frame, android studio and javascript to finish this mobile app. Zejun is going to learn javascript and react-native frame, and I will work on the UI design and android studio.
