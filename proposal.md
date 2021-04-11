@@ -13,7 +13,7 @@ The user of this software first need to register an account, and then users can 
 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
-We will combine MIS 3580 project to this course. Inspiring by the Notes app, we want to create a "To do list" app for people all over the world to manage their work and study during the pandemic.
+We will combine MIS 3580 project to this course. Inspiring by the Notes app, we want to create a "To do list" app to help people manage their work and study during the pandemic.
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
 I will collaborate with Zejun Wang. His email address is tuh04717@temple.edu. We have the same TA Tamara Katic.
