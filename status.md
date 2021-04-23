@@ -6,7 +6,9 @@ Zejun Wang
 
 #### Your section leader's name
 
-Tamara Katic
+TA- Tamara Katic
+Teammember1:Zihao Pan
+Teammember2:Zejun Wang
 
 #### Project title
 
