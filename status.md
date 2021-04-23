@@ -2,17 +2,15 @@
 
 #### Your name
 
-Zejun Wang
+TODO
 
 #### Your section leader's name
 
-TA- Tamara Katic
-Teammember1:Zihao Pan
-Teammember2:Zejun Wang
+TODO
 
 #### Project title
 
-EasyToDo
+TODO
 
 ***
 
@@ -20,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-We have finished the login page and figuered out how to add tasks to list
+TODO
 
 #### What have you not done for your project yet?
 
-Make time stamp when the task is marked as finished
+TODO
 
 #### What problems, if any, have you encountered?
 
-We have handled our project well. And so far, there is not a really problems yet, but we do have to look up online to learn how to use certain functions.
+TODO
