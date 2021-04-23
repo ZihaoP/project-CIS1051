@@ -9,7 +9,7 @@ Zihao Pan
 Zejun Wang  
 
 #### Project title
-
+Easytodo
 
 
 ***
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We are almost done our project, I'm working on andoird studio to creat the program.
 
 #### What have you not done for your project yet?
 
-TODO
+UI design, and program test.
 
 #### What problems, if any, have you encountered?
 
-TODO
+So far so good.
