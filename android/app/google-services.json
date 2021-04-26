@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627755613176",
+    "project_id": "easytodos-76382",
+    "storage_bucket": "easytodos-76382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627755613176:android:02059d6c4aa2cad5b1340d",
+        "android_client_info": {
+          "package_name": "com.easytodos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627755613176-jcndd4fmp6s0epo79mrrdhbnieaarq0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3pV0A_j8iLpfitMILumD-3hpQsL0-E-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627755613176-jcndd4fmp6s0epo79mrrdhbnieaarq0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
